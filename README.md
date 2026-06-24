@@ -6,7 +6,8 @@ Welcome to the E-Commerce Growth Tracker project! This repository serves as a co
 In today’s data-driven market, the ability to translate raw transactional data into actionable insights is paramount. This project demonstrates proficiency in the entire data lifecycle—from ingestion and rigorous cleaning to sophisticated analysis and professional-grade visualization. By leveraging advanced features within Microsoft Excel, this tracker provides a robust solution for monitoring business health, identifying consumer trends, and optimizing strategic decision-making.
 
 ## Dashboard Overview: "E_COMMERCE GROWTH TRACKER"
-<img width="646" height="326" alt="لقطة الشاشة 2026-06-24 225545" src="https://github.com/user-attachments/assets/3d9064e3-198b-4145-ab12-4615d5318a44" />
+![Uploading لقطة الشاشة 2026-06-25 022336.png…]()
+
 
 The dashboard is meticulously crafted to serve as a single source of truth for business performance. It features a modern, clean, and intuitive UI that allows stakeholders to navigate complex metrics with ease. The visual architecture includes:
 
